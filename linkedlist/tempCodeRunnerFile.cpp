@@ -1,1 +1,0 @@
-cout<<obj1.myNum<<endl;
